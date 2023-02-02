@@ -6,13 +6,12 @@
     The first element of the array is indexed by a subscript of 0.
     There are different operations possible in an array, like Searching, Sorting, Inserting, 
     Traversing, Reversing, and Deleting.
-    
+
                     Memory Location
      200 201 202 203 204 205 206  *   *   *
     | U | U | U | U | U | U | U | * | * | * |
       0   1   2   3   4   5   6   *   *   *  
-      
+
     Characteristics of an Array:
-    
-    - An array  
+    An array has various characteristics which are as follows:
 ```

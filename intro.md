@@ -18,21 +18,21 @@ So we must have good knowledge about data structures.
                                                       -----> `Static Data Structure` ----------------> `Array`
                                                     | 
                                                     |
-                                                    |                                           -----> `Queue`
+                                                    |                                         -----> `Queue`
                 ----> `Linear Data structure` --->  |                                        |
                 |                                   |                                        |
                 |                                   |                                        |
-                |                                     -----> `Dynamic Data Structure` ----->    -----> `Stack`
+                |                                     -----> `Dynamic Data Structure` -----> | -----> `Stack`
                 |                                                                            |
                 |                                                                            |
                 |                                                                            |
-Data Structure: |                                                                               -----> `Linked List`
+Data Structure: |                                                                             -----> `Linked List`
                 |
                 |
                 |
                 |
                 |
-                |                                           -----> `Tree`
+                |                                          -------> `Tree`
                 |                                         |
                 |                                         |
                 |                                         |
@@ -40,7 +40,7 @@ Data Structure: |                                                               
                                                           |
                                                           |
                                                           |
-                                                            -----> `Graph`
+                                                           ------->  `Graph`
 
 `Linear data structure`: Data structure in which data elements are arranged sequentially or linearly, where each element is
 ``` 
