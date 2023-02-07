@@ -27,8 +27,10 @@ Characteristics of a Linked list:
 ```
 A linked list has various characteristics which are as follows:
     - A linked list uses extra memory to store links.
-    - During the initialization of the linked list, there is no need to know the size of the elements.
-    - Linked lists are used to implement `stacks`, `queues`, `graphs`, etc.
+    - During the initialization of the linked list, 
+        there is no need to know the size of the elements.
+    - Linked lists are used to implement: 
+         `stacks`, `queues`, `graphs`, etc.
     - The first node of the linked list is called the Head.
     - The next pointer of the last node always points to NULL.
     - In a linked list, insertion and deletion are possible easily.
@@ -37,13 +39,14 @@ A linked list has various characteristics which are as follows:
 
 Applications of the Linked list:
 Different applications of linked lists are as follows:
-    - Linked lists are used to implement `stacks`, `queues`, `graphs`, etc.
+    - Linked lists are used to implement:
+        `stacks`, `queues`, `graphs`, etc.
     - Linked lists are used to perform arithmetic operations on long integers.
     - It is used for the representation of sparse matricies.
     - It helps in memory management.
     - It is used in the representation of Polynomial Maniupultaion where each
       polynomial term represents a node in the linked list.
-    - Linked lists are used to display image containers. 
+    - Linked lists are used to display image containers.
       Users can visit past, current, and next images.
     - They are used to store the history of the visited page.
     - They are used to perform undo operations.
