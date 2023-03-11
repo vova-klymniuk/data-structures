@@ -4,7 +4,8 @@
     The order is First In First Out(FIFO) i.e. the data item stored first will be accessed first. 
     In this, entering and retrieving data is not done from only one end. 
     An example of a queue is any queue of consumers for a resource where the consumer that came first is served first. 
-    Different operations are performed on a Queue like Reversing a Queue (with or without using recursion), Reversing the first K elements of a Queue, etc. 
+    Different operations are performed on a Queue like Reversing a Queue (with or without using recursion), 
+    Reversing the first K elements of a Queue, etc. 
     A few basic operations performed In Queue are enqueue, dequeue, front, rear, etc.
     
     Черга — це лінійна структура даних, яка відповідає певному порядку виконання операцій. 
@@ -15,3 +16,12 @@
     Кілька основних операцій, які виконуються в черзі, це введення в чергу, вилучення з черги, передня, задня тощо.
 ```
 
+`Operations associated with queue are:`
+
+```
+    - *Enqueue:* Adds an item to the queue. If the queue is full, then it is said to
+                 be an Overflow condition - Time Complexity: 0(1)
+
+    - *Dequeue:* Removes an time from the queue. 
+
+```
